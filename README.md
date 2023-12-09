@@ -14,7 +14,10 @@ I'm a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node
 
 # 📊 GitHub Stats:<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-bokkor-siddik&show_icons=true&locale=en" alt="abu-bokkor-siddik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abu-bokkor-siddik&" alt="abu-bokkor-siddik" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false)
+
+
+
 
 
 
