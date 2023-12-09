@@ -1,4 +1,5 @@
 ![logo](https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/mearn%20stack.png)
+<h1 align="center">Hi 👋, I'm Abu Bokkor Siddik</h1>
 
 # <img style="border-radius: 100px;"  width="40" align="center" height="40" src="https://i.ibb.co/NZP6vB4/IMG-20220826-141435-1.jpg"/> About Me:
 I'm a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node.js. I build modern, responsive web applications with a focus on user experience and clean code. Passionate about turning ideas into functional solutions, I bring simplicity and efficiency to every project I undertake.
