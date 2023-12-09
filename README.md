@@ -30,7 +30,30 @@ I'm a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node
 
 
 
+## 🧐 Projects
+ ### 1. Online Group-Study
+ - ### description : If you create assignment on this side you have to login this side.Then here you can read any uploaded assignment and you can mark any assignment and feedback posted assignment .
+ ## ⚙️Technologies:
+ - react js,mongo db, firebase, express.js, postman tailwind etc
+ - [live link](https://groupestudy-aa61a.web.app/)
+ - [client github link](https://github.com/Abu-Bokkor-Siddik/assignment) 
+ - [server github link](https://github.com/Abu-Bokkor-Siddik/assignment-client)
 
+ ### 2.LEANER-FLOW forum website
+ - ### description : In this assignment any anyone can see the post but if you like to comments and like you have to login first.it is forum like stackoverflow .
+ ## ⚙️Technologies:
+ - react js,mongo db, firebase, express.js, postman tailwind ,jwt etc
+ - [live link](https://forum-e3e2b.web.app/)
+ - [client github link](https://github.com/Abu-Bokkor-Siddik/leaner-flow-client) 
+ - [server github link](https://github.com/Abu-Bokkor-Siddik/leaner-flow-server) 
+
+ ### 3.Technology and Electronics website
+ - ### description: In this website there are many technology in brand name . if any one click any brand name he/she will see all product base on brand name .
+ ##  ⚙️Technologies:
+ - react js,mongo db, firebase, express.js, postman tailwind etc
+- [live link](https://client-ass-side.web.app/)
+- [client github link](https://github.com/Abu-Bokkor-Siddik/technology-client) 
+ - [server github link](https://github.com/Abu-Bokkor-Siddik/technology-server) 
 
 
 
