@@ -6,11 +6,11 @@ I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js,
 <h3 align="left">Reach out me:</h3>
 <p align="center">
 <div align="" style="display: flex;">
-   <a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img  src="https://i.ibb.co.com/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
+   <a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img  src="https://i.ibb.co.com/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" alt="md äbu bokkor sïddïk" height="full" width="250px" /></a> 
 
-<a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="blank"><img  src="https://i.ibb.co.com/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" alt="md abu bokor siddik" height="full" width="full" /></a> 
+<a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="blank"><img  src="https://i.ibb.co.com/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" alt="md abu bokor siddik" height="full" width="250px" /></a> 
 
-<a href="" target="blank"><img src="https://i.ibb.co.com/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
+<a href="" target="blank"><img src="https://i.ibb.co.com/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" alt="md äbu bokkor sïddïk" height="full" width="250px" /></a> 
 </div>
    
 </p>
