@@ -4,16 +4,25 @@
 # About Me:
 I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js, and Node.js. I build modern, responsive web applications with a focus on user experience and clean code. Passionate about turning ideas into functional solutions, I bring simplicity and efficiency to every project I undertake.
 <h3 align="left">Reach out me:</h3>
-<p align="center">
-<div align="" style="display: flex;">
-   <a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img  src="https://i.ibb.co.com/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" alt="md äbu bokkor sïddïk" height="full" width="250px" /></a> 
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-<a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="blank"><img  src="https://i.ibb.co.com/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" alt="md abu bokor siddik" height="full" width="250px" /></a> 
+  <a href="https://www.facebook.com/profile.php?id=100024960182776" target="_blank">
+    <img src="https://i.ibb.co/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" 
+         alt="Facebook" width="200px" />
+  </a> 
 
-<a href="" target="blank"><img src="https://i.ibb.co.com/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" alt="md äbu bokkor sïddïk" height="full" width="250px" /></a> 
+  <a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="_blank">
+    <img src="https://i.ibb.co/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" 
+         alt="LinkedIn" width="200px" />
+  </a> 
+
+  <a href="#" target="_blank">
+    <img src="https://i.ibb.co/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" 
+         alt="Portfolio" width="200px" />
+  </a> 
+
 </div>
-   
-</p>
+
 <h3 align="left">Languages and Tools or Skills:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
 
