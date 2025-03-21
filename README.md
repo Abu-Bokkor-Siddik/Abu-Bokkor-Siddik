@@ -5,11 +5,13 @@
 I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js, and Node.js. I build modern, responsive web applications with a focus on user experience and clean code. Passionate about turning ideas into functional solutions, I bring simplicity and efficiency to every project I undertake.
 <h3 align="left">Reach out me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img align="center" src="https://i.ibb.co.com/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
+<div align="center">
+   <a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img  src="https://i.ibb.co.com/Y4rbD1L3/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
 
-<a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="blank"><img align="center" src="https://i.ibb.co.com/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" alt="md abu bokor siddik" height="full" width="full" /></a> 
+<a href="https://www.linkedin.com/in/md-abu-bokor-siddik-9303912a5/" target="blank"><img  src="https://i.ibb.co.com/d4Z5SvT9/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-1.png" alt="md abu bokor siddik" height="full" width="full" /></a> 
 
-<a href="" target="blank"><img align="center" src="https://i.ibb.co.com/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
+<a href="" target="blank"><img src="https://i.ibb.co.com/M5cJ5R1M/Purple-White-Modern-Aesthetic-Gradient-Twitch-Streamer-Panel-2.png" alt="md äbu bokkor sïddïk" height="full" width="full" /></a> 
+</div>
    
 </p>
 <h3 align="left">Languages and Tools or Skills:</h3>
