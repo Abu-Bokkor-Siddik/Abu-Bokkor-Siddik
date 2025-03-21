@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abu Bokor Siddik</h1>
 
 # About Me:
-I'm a MERN stack developer proficient in MongoDB, Express.js, React.js, and Node.js. I build modern, responsive web applications with a focus on user experience and clean code. Passionate about turning ideas into functional solutions, I bring simplicity and efficiency to every project I undertake.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js, and Node.js. I build modern, responsive web applications with a focus on user experience and clean code. Passionate about turning ideas into functional solutions, I bring simplicity and efficiency to every project I undertake.
+<h3 align="left">Reach out me:</h3>
+<p align="center">
 <a href="https://www.facebook.com/profile.php?id=100024960182776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md äbu bokkor sïddïk" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools or Skills:</h3>
