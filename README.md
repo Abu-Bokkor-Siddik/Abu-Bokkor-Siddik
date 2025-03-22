@@ -47,16 +47,15 @@ I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js,
 <img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(14).png"/>
   <img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(12).png"/>
 </p><br/>
-# 📊 GitHub Stats:
+<h1> 📊 GitHub Stats:</h1>
 
 
-<p align="">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"/>
-   
+<!--   <img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"/> -->
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+    <img  width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Bokkor-Siddik&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 
