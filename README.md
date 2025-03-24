@@ -46,7 +46,13 @@ I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js,
 <img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(11).png"/>
 <img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(14).png"/>
   <img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(12).png"/>
-</p><br/>
+</p>
+<p align="center">
+<img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(4).png"/>
+<img  width="60" height="60" src="https://github.com/Abu-Bokkor-Siddik/Abu-Bokkor-Siddik/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(19).png"/>
+
+</p>
+<br/>
 <h1> 📊 GitHub Stats:</h1>
 
 
