@@ -71,14 +71,25 @@ I'm a Full stack developer proficient in Next.js, MongoDB, Express.js, React.js,
 
 
 ## 🧐 Projects
- ### 1. Online Group-Study
- - ### description : If you create assignment on this side you have to login this side.Then here you can read any uploaded assignment and you can mark any assignment and feedback posted assignment .
- ## ⚙️Technologies:
- - react js,mongo db, firebase, express.js, postman tailwind etc
- - [live link](https://groupestudy-aa61a.web.app/)
- - [client github link](https://github.com/Abu-Bokkor-Siddik/assignment) 
- - [server github link](https://github.com/Abu-Bokkor-Siddik/assignment-client)
+### 📝 To-Do App with Drag & Drop | React.js + Node.js + MongoDB
+Boost your productivity with this sleek and modern To-Do Application built using React.js for the frontend and MongoDB for persistent backend storage. This app is designed with simplicity and user experience in mind — perfect for organizing daily tasks, managing projects, or keeping track of your workflow.
 
+## ✨ Key Features:
+✅ Add, Edit, Delete Tasks with a responsive UI
+
+📦 MongoDB Database for storing tasks securely
+
+🧲 Drag-and-Drop Functionality to easily reorder your tasks (powered by react-beautiful-dnd)
+
+🌐 RESTful API to handle all CRUD operations
+
+📱 Mobile-Responsive Design – use it from anywhere
+
+🔄 Real-Time Updates – instantly reflect changes
+
+🕹️ User-Friendly Interface with clean design and smooth transitions
+### Project Live Link 
+- [live link](https://tasks-pied.vercel.app/)
  ### 2.LEANER-FLOW forum website
  - ### description : In this assignment any anyone can see the post but if you like to comments and like you have to login first.it is forum like stackoverflow .
  ## ⚙️Technologies:
